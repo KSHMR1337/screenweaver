@@ -2,6 +2,11 @@
 
 Multithreaded desktop background renderer that displays videos, GIFs, and images as desktop wallpapers or compositor surfaces.
 
+## Example on three monitors with a compositor
+
+![example](https://github.com/user-attachments/assets/0a4fb294-068e-47a8-8beb-820d9accfb47)
+
+
 ## Features
 
 - **Multiple Media Support**: Videos (MP4, WebM, MKV, AVI, MOV), animated GIFs, and static images (PNG, JPG, JPEG, BMP, TIFF, WebP, TGA)
